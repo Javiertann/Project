@@ -136,8 +136,8 @@ class stats:
         pt.title("Median visitors from all countries each month in each year")
         pt.show()
 
-# Stats = stats()
-# Stats.top3()
-# Stats.bottom3()
-# Stats.plotGraphs()
+Stats = stats()
+Stats.top3()
+Stats.bottom3()
+Stats.plotGraphs()
 
